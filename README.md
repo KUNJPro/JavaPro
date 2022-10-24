@@ -19,6 +19,7 @@
 <a href="https://www.leetcode.com/kunjpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kunjpro" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/kunj2329" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kunj2329" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@kunjpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@kunjpro" height="30" width="40" /></a>
+<a href="https://dev.to/kunjpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kunjpro" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
